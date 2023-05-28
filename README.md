@@ -1,2 +1,2 @@
 # TipCalculator.py
-Tip Calculator.
+Simple project that can be improved upon. 
